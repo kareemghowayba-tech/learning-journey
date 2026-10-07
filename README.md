@@ -6,7 +6,7 @@ Hi there! 👋 I am a passionate self-taught developer tracking my growth and do
 My big dream is to become a **Full-Stack Developer**. I want to master both building beautiful user interfaces (Frontend) and creating powerful, fast servers and databases (Backend). 
 
 ## 🛠️ Tech Stack I'm Exploring & Future Plans
-*   **Current Focus:** HTML5, CSS3, JavaScript (ES6+)
+*   **Current Focus:** HTML5, CSS3, JavaScript (ES6+)،React,Node.js,php,mysql
 *   **Version Control:** Git & GitHub
 *   **Future Horizon:** 🦀 **Rust** (I am planning to learn Rust to build high-performance systems and backend applications!)
 
