@@ -1,0 +1,84 @@
+
+body{
+    box-sizing: border-box;
+ 
+}
+
+div{
+      
+  
+    align-items: center;
+    text-align: center;
+}
+label{
+    position: relative
+    ;
+    left: 20%;
+}
+.logo-icon{
+margin: 30px 0 0 0;
+color: #0668E1;
+
+
+}
+button,a{
+    border: none;
+    cursor: pointer;
+    border-radius: 30px ;
+    width: 550px;
+    height: 50px;
+    background-color: white;
+}
+
+.in{
+    margin: 15px;
+    background-color: #0668E1;
+    color: white;
+}
+.create{
+border: 1px solid #0668E1;
+color: #0668E1;
+
+
+}
+a{
+    text-decoration: none;
+    color: #0668E1;
+}
+.create:hover{
+    background-color: #F2F2F2;
+}
+
+.forget{
+    margin-bottom: 40px;
+}
+input{
+width: 516px;
+height: 38px;
+margin: 10px;
+border-radius: 10px;
+border-color: #666a7233;
+padding-left: 10px;
+cursor: pointer;
+border-width: 1px;
+
+}
+
+.forget:hover{
+    background-color: #F2F2F2;
+}   label{
+left: 35%;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+

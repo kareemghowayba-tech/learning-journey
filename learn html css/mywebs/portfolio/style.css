@@ -1,0 +1,93 @@
+ul{
+    display: flex;
+    background-color: rgb(0, 0, 227);
+    min-height: 10px;
+    height: 40px;
+    align-items: center;
+    border-radius: 9px;
+    
+}
+a{
+    color: black;
+}
+.li ,.link0{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    list-style-type: none;
+    
+}
+.link0
+{
+    padding:  10px ;
+}
+.divsmain{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+.card{
+    background-color: rgb(235, 235, 235);
+    text-align: center;    box-sizing: border-box;
+  
+  width: 100%;
+    max-width: 600px;
+   
+    min-height: 100px;
+border-radius: 20px;
+border: 0.2px solid gold;
+
+
+}
+
+.card h2{
+    font-size: 2rem;
+}
+.card p{
+    font-size: 1rem;
+}
+
+.mylinks div{
+    display: flex;
+    
+    justify-content: center;
+    
+    align-items: center;
+    flex-direction: column;
+}
+.mylinks div p a {
+    color: black;
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

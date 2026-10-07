@@ -1,0 +1,107 @@
+.logo-icon{
+    color: rgb(0, 119, 255);
+}
+span{
+    padding: 18px;
+    color: #666a72d7;
+}
+.div{
+    margin: auto;
+    width: 60%;
+    height: 10%;
+}
+.gender, .phone, .password{
+    width: 516px;
+height: 45px;
+margin: 10px;
+border-radius: 16px;
+border-color: #666a7233;
+padding-left: 10px;
+cursor: pointer;
+border-width: 1px;
+outline: none;
+}
+input{
+    outline: none;
+}
+h1{
+    margin-bottom: 15px;
+}
+i{
+    margin: 20px 0px 0px 0;
+   
+}
+input:focus{
+    
+border-color: #0668E1;
+}
+.name{
+    width: 258px;
+height: 45px;
+
+border-radius: 15px;
+border-color: #666a7233;
+padding-left: 10px;
+cursor: pointer;
+border-width: 1px;
+}
+.sp2{
+padding: unset;
+color: rgb(0, 60, 255);
+cursor: pointer;
+
+
+}
+.sp2:hover{
+text-decoration:underline;
+}
+.p{
+    letter-spacing: 1.5px;
+}
+.Meta{
+padding:unset;
+color: black;
+}
+button{
+      border: none;
+    cursor: pointer;
+    border-radius: 30px ;
+    width: 538px;
+    height: 40px;
+    background-color: white;
+}
+
+.Submit{
+    margin: 10px;
+     background-color: #0668E1;
+    color: white;
+}
+.create{
+border: 1px solid #0668E1;
+color: #0668E1;
+margin: 15px;
+
+}
+a{
+    text-decoration: none;
+    color: #0668E1;
+}
+.create:hover{
+    background-color: #F2F2F2;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

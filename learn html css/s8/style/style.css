@@ -1,0 +1,46 @@
+.container{
+    position: relative;
+    width: 400px;
+    height: 300px;
+}
+.box{
+    width: 150px;
+    position: absolute;
+    height: 150px;
+
+}
+body{
+    height: 4000px;
+    width: 4000px;
+}
+.box1{
+    background: red;
+    top: 20px;
+    left: 20px;
+    position: fixed;
+}
+.box2{
+    background: blue ;
+    top: 60px ;
+    left: 60px ;
+}
+.box3{
+    background:green ;
+    top: 100px ;
+    left: 100px ;
+    z-index: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

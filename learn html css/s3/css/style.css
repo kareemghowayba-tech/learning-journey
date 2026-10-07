@@ -1,0 +1,16 @@
+body{
+    background-color: gray;
+box-sizing: border-box;
+}
+.cards{
+display: flex;
+background-color: red;
+}
+.box{
+    background-color: blue;
+    margin: 05px;
+    padding: 6px;
+    
+}
+
+

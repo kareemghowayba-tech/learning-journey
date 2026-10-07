@@ -1,0 +1,3 @@
+nav bar
+hero section h1 p img
+cards 6

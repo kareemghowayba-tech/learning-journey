@@ -1,0 +1,37 @@
+.box{
+    width: 300px;
+    height: 300px;
+    
+    
+    
+    background-image: 
+    
+    linear-gradient(rgba(0, 0, 0, 0.742) , rgba(0,0,0,0.342))
+       ,
+    url("https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSELqqzTwTtIzzRQXQzCpZJlnLuj-HhjfjOl3PgexHwE9oTyWA7KWW4oQOkwLuidF9-BWg6BQSG1vfoE-UZSOXgnXAz0AEKetEGvIMsyEP5iU0VldMtnEWDhb8Q&usqp=CAc")
+ 
+    ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 3px solid black;
+    box-sizing: border-box;
+}
+.container{
+    background-color: rgb(8, 8, 78);
+    color: white;
+    width: 24%;
+}
+.container:hover{
+
+background-color: rgb(8, 190,78);
+}
+.text{
+    padding: 10px 5px;
+    margin:  auto;
+    width: 200px;
+}
+.text h2 {
+    text-align: center;
+    font-weight: 400;
+    letter-spacing: 0.9px;
+}
