@@ -4,11 +4,40 @@ var myarray =
 'osama'
 ,
 'kareem'
-
+,
+['kareem' ,'ka']
 ]
 ;
 var user = "sayed" , 
 age = 37; 
+// myarray.unshift(`["osama" , "kareem"]`)
+
+// console.log(myarray[2][1])
+// myarray.shift("osama")
+// myarray.push("kareeam")
+// myarray.pop().shift();myarray.unshift("kariom")
+// let indexoff  = console.log(myarray.indexOf("kareem", 1));
+let indexoff  = console.log(myarray.lastIndexOf("kareem",-3));
+console.log(myarray)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 // if  myarray ==  Object  {
 //     console.log(typeof {myname})
@@ -56,7 +85,7 @@ price -= disacc
     price = 120
 }
 document.write(price)
-*/
+
 let job = "dess"
 let salary = 0;
 switch (job) {
@@ -73,6 +102,7 @@ switch (job) {
 
 }
 console.log(salary)
+*/
 
 
 
